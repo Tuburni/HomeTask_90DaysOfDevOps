@@ -1,6 +1,5 @@
-
-#Installing Docker
-##On Ubuntu:
+# Installing Docker
+## On Ubuntu:
 
 1. Update the apt package index and install packages to allow apt to use a repository over HTTPS:
 >  <sub> _copy and past this comand to terminal_ </sub>
@@ -42,7 +41,7 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 sudo docker run hello-world
 ```
 
-##On CentOS:
+## On CentOS:
 
 1. Install the yum-utils package (which provides the yum-config-manager utility) and set up the repository:
 >  <sub> _copy and past this comand to terminal_ </sub>
@@ -70,8 +69,8 @@ sudo docker run hello-world
 ```
 
 
-#Installing Jenkins
-##On Ubuntu:
+# Installing Jenkins
+## On Ubuntu:
 
 1. Install Java:
 >  <sub> _copy and past this comand to terminal_ </sub>
@@ -126,7 +125,7 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 Now copy and paste this password on the “Unlock Jenkins” page in the browser and click on continue.
 Next, you need to customize Jenkins and install plugins. You can either select plugins of your choice or install suggested plugins, which are the most widely used plugins by the community.
 
-##On CentOS:
+## On CentOS:
 
 1. Install Java:
 >  <sub> _copy and past this comand to terminal_ </sub>
