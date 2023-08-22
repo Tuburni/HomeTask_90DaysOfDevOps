@@ -1,6 +1,6 @@
 # <p align="center"> day07 | Docker and Jenkins </p>
 
-### Task decomposition ( from [Global Logic](https://github.com/LondheShubham153/90DaysOfDevOps/blob/master/2023/day07/tasks.md) by [Shubham Londhe](https://github.com/LondheShubham153)):
+### Task decomposition ( from [90DaysOfDevOps](https://github.com/LondheShubham153/90DaysOfDevOps) by [Shubham Londhe](https://github.com/LondheShubham153)):
 > *Requirements:*
  1) You have to install docker and jenkins in your system from your terminal using package managers
  2) Write a small blog or article to install these tools using package managers on Ubuntu and CentOS
