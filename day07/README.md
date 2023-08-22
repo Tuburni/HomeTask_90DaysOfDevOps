@@ -54,9 +54,9 @@ https://github.com/Tuburni/HomeTask_90DaysOfDevOps/blob/main/day07/Materials/art
       <img src="https://github.com/Tuburni/HomeTask_90DaysOfDevOps/blob/main/day07/Materials/docker%20three.png" width="726">
 </p>
 
-4. - [X] stop the service jenkins and post before and after screenshots
+4. - [X] stop the service jenkins and post before and after screenshots:
 <p align="center">
       <img src="https://github.com/Tuburni/HomeTask_90DaysOfDevOps/blob/main/day07/Materials/jenkins%20stop.png" width="726">
 </p>
 
-5. - [X] read about the commands systemctl vs service:
+5. - [X] read about the commands systemctl vs service
