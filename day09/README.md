@@ -32,7 +32,7 @@
 
 4. - [X] Create a new file in Devops/Git/Day-02.txt & add some content to it:
 
-[file.txt](https://github.com/Tuburni/devops/blob/main/GIT/file.txt)
+- [file.txt](https://github.com/Tuburni/devops/blob/main/GIT/file.txt)
 
 5. - [X] Push your local commits to the repository on GitHub:
 
