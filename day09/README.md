@@ -14,10 +14,6 @@
 
 1. - [X] Install Git on your computer (if it is not already installed). You can download it from the official website at https://git-scm.com/downloads:
 
-<p align="center">
-      <img src="https://github.com/Tuburni/HomeTask_90DaysOfDevOps/blob/main/day07/Materials/jenkins%20also%20first.png" width="726">
-</p>
-
 2. - [X] Create a repository named "Devops" on GitHub:
 
 <p align="center">

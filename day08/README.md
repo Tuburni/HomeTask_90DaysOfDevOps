@@ -1,6 +1,6 @@
 # <p align="center"> Day 8 Task: Basic Git & GitHub for DevOps Engineers </p>
 
-### Task decomposition ( from [Global Logic](https://github.com/LondheShubham153/90DaysOfDevOps/blob/master/2023/day07/tasks.md) by [Shubham Londhe](https://github.com/LondheShubham153)):
+### Task decomposition ( from [90DaysOfDevOps](https://github.com/LondheShubham153/90DaysOfDevOps/blob/master/2023/day08s/tasks.md) by [Shubham Londhe](https://github.com/LondheShubham153)):
 > *Requirements:*
 1. Install Git on your computer (if it is not already installed). You can download it from the official website at https://git-scm.com/downloads
 2. Create a free account on GitHub (if you don't already have one). You can sign up at https://github.com/
